@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # 👉 这里填你的 DeepSeek API Key
-DEEPSEEK_API_KEY = "替换成你的APIKEY"
+DEEPSEEK_API_KEY = "sk-0608aa39f84043008ffb3c1a40c3ed04"
 
 DEEPSEEK_URL = "https://api.deepseek.com/chat/completions"
 
